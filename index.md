@@ -13,7 +13,7 @@ Detection of road curbs is an essential capability for autonomous driving. It ca
 
 
 ## Supplymentary document
-More details of our implementation and extra visualization are provided in our [supplementary document](https://github.com/TonyXuQAQ/iCurb.github.io/blob/main/2020_RAL_ICRA_supplementary_v2.pdf).
+More details of our implementation and extra visualization are provided in our [supplementary document](https://github.com/TonyXuQAQ/iCurb/blob/main/2020_RAL_ICRA_supplementary_v2.pdf).
 
 ## Contact
 Any questons, comments and suggestions are welcomed! Please send email to **zxubg at connect dot ust dot hk**.
