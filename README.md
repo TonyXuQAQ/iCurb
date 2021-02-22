@@ -3,4 +3,6 @@ Authors: Zhenhua Xu, Yuxiang Sun, Ming Liu
 
 Please visit our project paper at https://tonyxuqaq.github.io/iCurb/.
 
+The implementation code will be released soon...
+
 
