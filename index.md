@@ -11,11 +11,25 @@ Detection of road curbs is an essential capability for autonomous driving. It ca
 ## Demo video
 [![Watch the video](https://img.youtube.com/vi/fMhcZm_MPUE/0.jpg)](https://youtu.be/fMhcZm_MPUE)
 
-
 ## Supplymentary document
 More details of our implementation and extra visualization are provided in our [supplementary document](https://github.com/TonyXuQAQ/iCurb/blob/main/2020_RAL_ICRA_supplementary_v2.pdf).
+
+## Implementation Code
+Comming soon...
 
 ## Contact
 Any questons, comments and suggestions are welcomed! Please send email to **zxubg at connect dot ust dot hk**.
 
 ## Citation
+```
+@article{xu2021icurb,
+  title={iCurb: Imitation Learning-Based Detection of Road Curbs Using Aerial Images for Autonomous Driving},
+  author={Xu, Zhenhua and Sun, Yuxiang and Liu, Ming},
+  journal={IEEE Robotics and Automation Letters},
+  volume={6},
+  number={2},
+  pages={1097--1104},
+  year={2021},
+  publisher={IEEE}
+}
+```
