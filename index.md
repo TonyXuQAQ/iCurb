@@ -20,7 +20,7 @@ Detection of road curbs is an essential capability for autonomous driving. It ca
 More details of our implementation and extra visualization are provided in our [supplementary document](https://github.com/TonyXuQAQ/iCurb/blob/main/2020_RAL_ICRA_supplementary_V3.pdf).
 
 ## Implementation Code
-Comming soon...
+iCurb is implemented in our new benchmark dataset for road-boundary detection. The data and code can be obtain in [this repo](https://github.com/TonyXuQAQ/Topo-boundary/tree/master/graph_based_baselines/iCurb).
 
 ## Contact
 Any questons, comments and suggestions are welcomed! Please send email to **zxubg at connect dot ust dot hk**.
